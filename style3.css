@@ -1,0 +1,94 @@
+body{
+padding: 0;
+margin: 0;
+font-family: Aria;
+}
+header{
+width: 100%;
+height: 100px;
+background: gray;
+text-align:right ;
+}
+ul{
+	margin: 0;
+}
+ul li{
+	display: inline-block;
+	margin-right:100px ;
+}
+ul li a{
+
+text-decoration: none;
+font-size:39px ;
+line-height: 100px;
+color: #333;
+}
+ul li a:hover {
+color:orange ;
+border-bottom: 1px solid orange;
+text-shadow: 0px 1px 1px black;
+}
+section{
+width: 100%;
+height:106.3vh ;
+background:linear-gradient(#4287f5,#6690d1)   ;
+}
+#mink{
+width:409px ;
+position: absolute;
+top: 200px;
+left: 300px;	
+}
+#minkv3{
+width:409px ;
+position: absolute;
+top: 215px;
+left: 1200px;
+
+
+
+}
+
+#minkV1{
+position: absolute;
+left: 300px;
+font-size: 38px;
+top: 800px;
+
+}
+#minkV3{
+position: absolute;
+left: 1250px;
+font-size: 38px;
+top: 800px;
+}
+h1{
+margin-top:0 ;
+text-align:center ;
+top:300px ;
+font-size: 80px;	
+color:purple ;
+}
+#Sharkv1{
+font-size: 30px;
+position: absolute;
+top: 900px;
+left: 25px;
+
+}
+
+#Sharkv2{
+font-size: 30px;
+position: absolute;
+top: 940px;
+left: 25px;
+
+}
+#Sharkv3{
+font-size: 30px;
+position: absolute;
+top: 980px;
+left: 25px;
+
+}
+
